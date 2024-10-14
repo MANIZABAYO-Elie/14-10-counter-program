@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+.buttton {
+  color: white;
+  background-color: beige;
+}
+.button-section {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#display{
+   font-size: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
